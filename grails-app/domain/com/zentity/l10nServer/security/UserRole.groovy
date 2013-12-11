@@ -1,4 +1,4 @@
-package com.zentity.l10nServer
+package com.zentity.l10nServer.security
 
 import org.apache.commons.lang.builder.HashCodeBuilder
 

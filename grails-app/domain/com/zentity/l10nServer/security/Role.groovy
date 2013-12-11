@@ -1,4 +1,4 @@
-package com.zentity.l10nServer
+package com.zentity.l10nServer.security
 
 class Role {
 

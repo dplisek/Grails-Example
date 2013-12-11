@@ -1,6 +1,6 @@
-import com.zentity.l10nServer.Role
-import com.zentity.l10nServer.User
-import com.zentity.l10nServer.UserRole
+import com.zentity.l10nServer.security.Role
+import com.zentity.l10nServer.security.User
+import com.zentity.l10nServer.security.UserRole
 
 class BootStrap {
 
